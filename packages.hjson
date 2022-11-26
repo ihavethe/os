@@ -1,0 +1,15 @@
+[
+	{
+		"name": "elvish",
+		"versions": {
+			"nightly": "arandomipfscid123",
+			"0.0.1": "cidforfirstversion"
+		}
+	},
+	{
+		"name": "gum", 
+		"versions": {
+			"nightly": "anotheripfscid69"
+		}
+	}
+]
